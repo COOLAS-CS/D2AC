@@ -4,7 +4,7 @@ Official implementation of **D²AC**
 
 *Learning from Delay Distributions: A New Representation for Delay-Aware Reinforcement Learning* (AAMAS 2026)  
 
-
+[Appendix](https://github.com/COOLAS-CS/D2AC/blob/main/Appendix.pdf)
 
 ## Installation
 
