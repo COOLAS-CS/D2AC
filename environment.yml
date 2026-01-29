@@ -1,0 +1,25 @@
+name: D2AC
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - cyipopt
+  - matplotlib
+  - numpy>1.16.0
+  - pandas
+  - pip
+  - python=3.8
+  - pytorch>=1.13.0
+  - scipy
+  - seaborn
+  - tensorboard>=2.5.0
+  - gymnasium
+  - screen
+  - gym
+  - cython=0.29
+  - mujoco
+  - glew
+  - glfw
+  - mesalib
+  - patchelf
